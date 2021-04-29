@@ -1,4 +1,4 @@
-👋### Hi there
+### Hi there 👋
 I'm **EnoshDong**, a Web front-end developer.  
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
