@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔧 My Tools:  
-- ![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-VSCode-blue) 
+     ![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-VSCode-blue)   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnoshDong&show_icons=true&theme=tokyonight)](https://github.com/EnoshDong/github-readme-stats)
 
 
