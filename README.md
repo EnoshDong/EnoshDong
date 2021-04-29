@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm **EnoshDong**, a Web front-end developer.  
+
+I'm **EnoshDong**, a Web front-end developer. 
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnoshDong&show_icons=true&theme=tokyonight)](https://github.com/EnoshDong/github-readme-stats)
 
